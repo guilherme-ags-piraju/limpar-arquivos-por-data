@@ -1,12 +1,12 @@
 # ==============================================================================
-#  Projeto: PRJ001_CLEANING_FILES
+#  Projeto: PRJ002_CLEANING_FILES
 #  Versão:  v1.0
 #  Autor:   Guilherme Augusto
 #  Data:    2024-08-23
 # ==============================================================================
 
 """
-Este módulo "app" faz parte do projeto PRJ001_CLEANING_FILES.
+Este módulo "app" faz parte do projeto PRJ002_CLEANING_FILES.
 Ele foi criado em 2024-08-23 por Guilherme Augusto, e atualmente está na versão 1.0.
 
 Histórico de Revisões:
@@ -178,6 +178,6 @@ def funcao_filtrar_e_excluir(local_arquivo, data_modificacao):
 
 # Ponto de entrada principal do script
 if __name__ == '__main__':
-    funcao_filtrar_e_excluir(local_arquivo, data_modificacao)
-    # funcao_listador_arquivos(local_arquivo, data_modificacao)
+    # funcao_filtrar_e_excluir(local_arquivo, data_modificacao)
+    funcao_listador_arquivos(local_arquivo, data_modificacao)
     # contar_letras_nome_arquivo(local_arquivo)

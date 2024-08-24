@@ -1,12 +1,12 @@
 # ==============================================================================
-#  Projeto: PRJ001_CLEANING_FILES
+#  Projeto: PRJ002_CLEANING_FILES
 #  Versão:  v1.0
 #  Autor:   Guilherme Augusto
 #  Data:    2024-08-23
 # ==============================================================================
 
 """
-Este módulo "main" faz parte do projeto PRJ001_CLEANING_FILES.
+Este módulo "main" faz parte do projeto PRJ002_CLEANING_FILES.
 Ele foi criado em 2024-08-23 por Guilherme Augusto, e atualmente está na versão 1.0.
 
 Histórico de Revisões:
@@ -36,7 +36,7 @@ def iniciar_programa():
     main = True
 
     print('==============================================================')
-    print('PROGRAMA: PRJ001_CLEANING_FILES')
+    print('PROGRAMA: PRJ002_CLEANING_FILES')
     print('==============================================================')
     print('VERSÃO: v1.0')
     print('AUTOR: Guilherme Augusto')
